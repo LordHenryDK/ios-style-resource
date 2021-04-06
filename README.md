@@ -1,0 +1,2 @@
+# ios-style-resource
+Resources
